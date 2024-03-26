@@ -1,0 +1,16 @@
+main{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 500px;
+    background-color: blueviolet;
+
+    color: rgb(243, 246, 248);
+
+    text-align: center;
+
+    padding-top: 40px;
+
+    box-sizing: border-box;
+}
